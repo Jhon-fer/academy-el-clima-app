@@ -98,9 +98,15 @@ form {
     text-align: left;
 }
 
-.main, .tempt, .description {
+.main, .description {
     margin-bottom: 5px;
     font-size: 1.6rem;
+}
+
+.tempt {
+    margin-bottom: 5px;
+    font-size: 4rem;
+    font-weight: 600;
 }
 
 .img {
